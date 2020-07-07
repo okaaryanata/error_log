@@ -31,7 +31,7 @@ func main() {
   defer errlog.Close()
 
   // save error message to your DB
-  // Func take 2 parameter (error and payload that triggered error)
+  // Func Error take 2 parameter (error and payload that triggered error)
   // error = error
   // payload = string
   errlog.Error(error, payload)
