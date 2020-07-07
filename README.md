@@ -11,7 +11,8 @@ $ go get -u github.com/okaaryanata/error_log
 - **mysql** database is installed
 - there is a table named **error_logs** in your database
 - **error_logs** table structure:
-  <img src="images/table structure.png" height="125">
+
+  <img src="images/table structure.png" height="175">
 
 #### How to use
 
