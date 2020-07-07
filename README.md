@@ -17,7 +17,7 @@ $ go get -u github.com/okaaryanata/error_log
 #### How to use
 
 ```go
-// Example you want to user the error_log on you main package
+// Example, you want to use error_log on your main package
 package main
 
 import (
